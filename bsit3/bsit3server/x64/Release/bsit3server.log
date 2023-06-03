@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(66,7): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(84,31): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(149,21): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(181,42): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(187,29): warning C4244: аргумент: преобразование "ULONG_PTR" в "DWORD", возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(190,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(192,63): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(193,47): warning C4244: аргумент: преобразование "ULONG_PTR" в "DWORD", возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(198,21): warning C4244: аргумент: преобразование "ULONG_PTR" в "DWORD", возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(208,22): warning C4244: аргумент: преобразование "ULONG_PTR" в "DWORD", возможна потеря данных
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(214,42): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(223,13): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "ULONG_PTR"
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(223,13): message : рекомендуется использовать "%llu" в строке форматирования
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(223,13): message : рекомендуется использовать "%Iu" в строке форматирования
+C:\Users\volog\source\repos\bsit3server\bsit3server\main.cpp(223,13): message : рекомендуется использовать "%I64u" в строке форматирования
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  bsit3server.vcxproj -> C:\Users\volog\source\repos\bsit3server\x64\Release\bsit3server.exe

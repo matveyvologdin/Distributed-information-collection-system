@@ -1,0 +1,21 @@
+OS version: Windows 8
+
+Current time: 21:13:27 08.12.2022
+
+System uptime: 00:12:15
+
+Memory load: 73%
+Available/Total Phys memory: 0,529968/1,999008Gb
+Available/Total Program memory: 1,648384/4,000000Gb
+Available/Total Virtual memory: 1,977707/1,999878Gb
+
+C:\ - hard disk drive, NTFS filesystem
+D:\ - CD-ROM drive, Unknown filesystem
+
+C:\ 13,022945 Gb
+
+For group СИСТЕМА Allowed ace type:  Delete, Read control, Write DAC, Write owner, Synchronize
+For group Администраторы Allowed ace type:  Delete, Read control, Write DAC, Write owner, Synchronize
+For user Matvey Allowed ace type:  Delete, Read control, Write DAC, Write owner, Synchronize
+
+Owner for C:\Users\Matvey\Desktop\test : Matvey

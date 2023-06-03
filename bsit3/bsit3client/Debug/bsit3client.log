@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\volog\source\repos\bsit3\bsit3client\main.cpp(76,12): warning C4101: publicKey: неиспользованная локальная переменная
+  bsit3client.vcxproj -> C:\Users\volog\source\repos\bsit3\Debug\bsit3client.exe

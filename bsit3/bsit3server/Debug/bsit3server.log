@@ -1,0 +1,4 @@
+﻿  tasks.cpp
+C:\Users\volog\source\repos\bsit3\bsit3server\tasks.cpp(26,2): warning C4996: 'GetVersionExW': объявлен deprecate
+C:\Users\volog\source\repos\bsit3\bsit3server\tasks.cpp(338,23): warning C4101: aclSizeInfo: неиспользованная локальная переменная
+  bsit3server.vcxproj -> C:\Users\volog\source\repos\bsit3\Debug\bsit3server.exe
